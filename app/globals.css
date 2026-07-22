@@ -482,3 +482,9 @@ footer {
   height: 1px;
   overflow: hidden;
 }
+
+.form-error {
+  color: var(--bad);
+  font-size: 13px;
+  margin: -6px 0 0;
+}
